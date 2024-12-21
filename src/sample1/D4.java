@@ -8,7 +8,7 @@ public class D4 {
      @Test
      public void abc ()
        {
-	      System.out.println("New Class added"); 
+	      System.out.println("New Class D4"); 
        }
 
 }
